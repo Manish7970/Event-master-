@@ -16,7 +16,7 @@ Ensure you have the following installed:
 ## Installation
 Clone the repository and install dependencies:
 ```sh
-git clone <repository-url>
+git clone <https://github.com/Manish7970/Event-master-.git>
 cd EventMasterPro
 npm install
 ```
